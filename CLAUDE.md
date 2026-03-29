@@ -10,7 +10,7 @@ Legion Extension that connects LegionIO to Google Calendar via the Google Calend
 
 **GitHub**: https://github.com/LegionIO/lex-google-calendar
 **License**: MIT
-**Version**: 0.1.0
+**Version**: 0.1.2
 
 ## Architecture
 
